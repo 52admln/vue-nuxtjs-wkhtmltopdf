@@ -2,6 +2,15 @@
 
 > My world-class Nuxt.js project
 
+## 说明
+
+[HTML 转 PDF 图文报表实践](https://segmentfault.com/a/1190000019261122)文章的示例代码
+
+## 集成内容
+
+- Element UI
+- Echarts
+
 ## Build Setup
 
 ``` bash
